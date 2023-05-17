@@ -1,0 +1,118 @@
+2023-05-14 00:05:719 INFO  LoginPage :36 - Enter username <usernameField>
+2023-05-14 00:05:244 INFO  LoginPage :42 - Enter password <passwordField>
+2023-05-14 00:05:589 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (5ab9099edc5c73cb15d50271489099bd)] -> id: login-button]
+2023-05-14 00:05:687 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 00:05:79 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 00:05:613 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (5ad81fe4b61a852bfac0b39528614947)] -> id: login-button]
+2023-05-14 00:05:516 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 00:05:803 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 00:05:304 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (c62bc6aa9360befcd71b20c3fef6f08e)] -> id: login-button]
+2023-05-14 00:05:369 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 00:05:540 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 00:05:771 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (155e0f4d573c3e1c9bd6a27cf197db83)] -> id: login-button]
+2023-05-14 00:05:412 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 00:05:839 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 00:05:231 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (f3770c381aa7215f011e11fbbb9f0b3a)] -> id: login-button]
+2023-05-14 00:05:37 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 00:05:250 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 00:05:611 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (cd364946283f49b5262029d68070f99e)] -> id: login-button]
+2023-05-14 00:05:936 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 00:05:156 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 00:05:433 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (be4c7169fad2941c1dd5e0357414e3c0)] -> id: login-button]
+2023-05-14 00:05:255 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 00:05:451 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 00:05:682 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (7b885597e993264e110be701cf3198c8)] -> id: login-button]
+2023-05-14 00:05:267 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 00:05:583 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 00:05:39 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (59af072646d9121c2d6bd51c9f1b26bb)] -> id: login-button]
+2023-05-14 01:05:996 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:268 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:629 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (5d125e70289a5cd85d674c4f0718245d)] -> id: login-button]
+2023-05-14 01:05:868 INFO  ProductPage :31 - Verify six products are displayed on page 
+2023-05-14 01:05:327 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:682 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:27 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (2da56ad71547d643da52a89819629c2b)] -> id: login-button]
+2023-05-14 01:05:280 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:569 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:57 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (438d6921e274059b279a86d4f8c7f000)] -> id: login-button]
+2023-05-14 01:05:566 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:905 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:499 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (f3cda8203c389b6f3078d2b630782d30)] -> id: login-button]
+2023-05-14 01:05:814 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:117 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:640 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (768277509e4d5754573948917006f58a)] -> id: login-button]
+2023-05-14 01:05:277 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:612 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:19 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (98427aff7cedc267cf513392215c7c1f)] -> id: login-button]
+2023-05-14 01:05:630 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:851 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:168 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (d4bc487a4d05964df524efbec98ca95e)] -> id: login-button]
+2023-05-14 01:05:905 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:239 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:170 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (5fbce6f8b288d854be5d1a8e89cd768e)] -> id: login-button]
+2023-05-14 01:05:966 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:252 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:620 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (0369c2592093b160b45bc3da099b654a)] -> id: login-button]
+2023-05-14 01:05:204 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:437 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:699 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (fd8cc77bd0e1bdadb45a5b4c0af2e2ef)] -> id: login-button]
+2023-05-14 01:05:46 INFO  ProductPage :31 - Verify six products are displayed on page 
+2023-05-14 01:05:550 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:711 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:927 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (f48d36ac02d44be974eb4ac51e35f835)] -> id: login-button]
+2023-05-14 01:05:336 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:692 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:307 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (2d94b410d015254c3d3487318a87e97b)] -> id: login-button]
+2023-05-14 01:05:28 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:300 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:800 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (c69c9541320f009efb4fbbba293adec1)] -> id: login-button]
+2023-05-14 01:05:785 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:127 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:534 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (ade131bf475b5c013342635600989c63)] -> id: login-button]
+2023-05-14 01:05:564 INFO  ProductPage :39 - Verify product text is displayed 
+2023-05-14 01:05:962 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:246 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:629 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (00c11bcab44cc15b4e3333ff1ddea413)] -> id: login-button]
+2023-05-14 01:05:694 INFO  ProductPage :39 - Verify product text is displayed 
+2023-05-14 01:05:467 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 01:05:850 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 01:05:513 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (2f6105274176408bd1dd43185a6cab0d)] -> id: login-button]
+2023-05-14 01:05:523 INFO  ProductPage :39 - Verify product text is displayed 
+2023-05-14 02:05:351 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 02:05:619 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 02:05:924 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (93f51b3d6d268473eb0e4edf784c0075)] -> id: login-button]
+2023-05-14 02:05:938 INFO  ProductPage :39 - Verify product text is displayed 
+2023-05-14 02:05:239 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 02:05:439 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 02:05:674 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (df73452a464f0e162bdf3630495b9da3)] -> id: login-button]
+2023-05-14 02:05:121 INFO  ProductPage :31 - Verify six products are displayed on page 
+2023-05-14 02:05:390 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 02:05:648 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 02:05:226 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (5e5e7e0366c73779e3f648a710133f6b)] -> id: login-button]
+2023-05-14 02:05:632 INFO  ProductPage :31 - Verify six products are displayed on page 
+2023-05-14 02:05:250 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 02:05:485 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 02:05:837 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (61e76b1e23cb100aa8348c077d1c3f6b)] -> id: login-button]
+2023-05-14 02:05:849 INFO  ProductPage :39 - Verify product text is displayed 
+2023-05-14 02:05:592 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 02:05:00 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 02:05:628 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (49ae98c739b97d30a026a907f6e40466)] -> id: login-button]
+2023-05-14 02:05:646 INFO  ProductPage :39 - Verify product text is displayed 
+2023-05-14 02:05:264 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 02:05:462 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 02:05:729 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (0dd563afa603e946baf979866e7059d6)] -> id: login-button]
+2023-05-14 02:05:181 INFO  ProductPage :31 - Verify six products are displayed on page 
+2023-05-14 12:05:919 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 12:05:383 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 12:05:694 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (5a34de387c532bbb3d3dcdaaf2962bd7)] -> id: login-button]
+2023-05-14 12:05:389 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 12:05:742 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 12:05:372 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (8f885cc8d981a8461af11364f3451f62)] -> id: login-button]
+2023-05-14 12:05:752 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 12:05:210 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 12:05:850 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (70b79ac47de9e0749813268aaac959ac)] -> id: login-button]
+2023-05-14 12:05:862 INFO  ProductPage :39 - Verify product text is displayed 
+2023-05-14 12:05:253 INFO  LoginPage :36 - Enter username standard_user
+2023-05-14 12:05:894 INFO  LoginPage :42 - Enter password secret_sauce
+2023-05-14 12:05:209 INFO  LoginPage :50 - Click on login button [[ChromeDriver: chrome on WINDOWS (e829aebd4a83dc2a507d52f356112c95)] -> id: login-button]
+2023-05-14 12:05:685 INFO  ProductPage :31 - Verify six products are displayed on page 
